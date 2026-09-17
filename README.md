@@ -1,3 +1,5 @@
+> **Moved.** This standard now lives in the consolidated DS4AI suite at [Polymathie-Studio/ds4ai/standards/hasp](https://github.com/Polymathie-Studio/ds4ai/tree/main/standards/hasp). This repository is archived and read-only.
+
 # HASP
 
 <picture>
